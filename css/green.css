@@ -1,0 +1,13 @@
+body{
+    background: url('../img/hojas.jpg');
+    background-attachment: fixed;
+}
+#titlePage{
+    background: #196B1B;
+}
+#menu ul li:hover{
+    background: #196B1B;
+}
+.readMore{
+    background: #196B1B;
+}
